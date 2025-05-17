@@ -7,6 +7,6 @@ Eu sou o Thômas Chriscian, sou um programador Front End, atualmente estou apren
 - <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
 - <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
 
-[![Thômas stats](https://github-readme-stats.vercel.app/api?username=thomaschriscian15)](https://github.com/anuraghazra/github-readme-stats)
+![Thômas stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomaschriscian15)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomaschriscian15&size_weight=0.5&count_weight=0.5)
