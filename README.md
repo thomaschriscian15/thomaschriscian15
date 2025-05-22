@@ -13,7 +13,7 @@
 <a href="https://www.instagram.com/tchriscian10/">
 <img align="left" alt="icone do instagram uma camera dentro de um quadrado" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="www.linkedin.com/in/thomas-chriscian-pereira-rosa-651b80269/">
+<a href="https://www.linkedin.com/in/thomas-chriscian-pereira-rosa-651b80269/">
 <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 </p>
