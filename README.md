@@ -20,7 +20,9 @@
 <br>
 <br>
 
-![Thômas stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Thômas stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomaschriscian15&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomaschriscian15&layout=compact&theme=tokyonight)
+
+
 
