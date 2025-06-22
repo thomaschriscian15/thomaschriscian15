@@ -7,6 +7,14 @@
 <code><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=black" alt="css-logo" /></code> 
 <code><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></code>
 
+h2>Também estou aprendendo e utilizando tecnologias como:</h2>
+<br>
+
+<code>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+          
+</code>
+
 ### Connect with me:
 
 <p>
