@@ -10,10 +10,6 @@
 h2>Também estou aprendendo e utilizando tecnologias como:</h2>
 <br>
 
-<code>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-          
-</code>
 
 ### Connect with me:
 
