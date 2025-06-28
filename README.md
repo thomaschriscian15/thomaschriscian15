@@ -1,15 +1,18 @@
 <h1 align="center">Olá! Sou Thômas Chriscian </h1>
-
-<h2>Sou um programador Front End, atualmente desenvolvendo projetos com:</h2>
+<h2 align="center">Desenvolvedor Front-End  com ênfase na criação de interfaces de usuário dinâmicas e responsivas. Possuo experiência prática no desenvolvimento de projetos utilizando HTML, CSS e JavaScript. Sou proativo na busca por novas tecnologias e ferramentas de programação, aplicando continuamente novos conhecimentos em projetos inovadores.</h2>
+<h2>Tecnologias utilizadas:</h2>
 <br>
 
-<code><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=black" alt="html-logo"/></code>
+<code><img src="https://img.shields.io/badge/HTML-ff0000?style=for-the-badge&logo=html5&logoColor=black" alt="html-logo"/></code>
 <code><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=black" alt="css-logo" /></code> 
 <code><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></code>
+<code><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></code>
 
-<h2>Também estou aprendendo e utilizando tecnologias como:</h2>
+<h2>Aprendendo e utilizando tecnologias como:</h2>
 <br>
-
+<code><img src="https://img.shields.io/badge/React-87bdff?style=for-the-badge&logo=react&logoColor=black"></code>
+<code><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
+<code><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></code>
 
 ### Connect with me:
 
