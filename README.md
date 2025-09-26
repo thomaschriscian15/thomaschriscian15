@@ -1,8 +1,17 @@
-<h1 align="center">Olá! Sou Thômas Chriscian </h1>
+### Hi there 😎
+
+Hi, I'm Thômas Chriscian, I am a dev passionate about technology!
+
+This is the space where I spend most of my time where, imagination and creativity become code.
+
+<h2 align="center">Desenvolvedor Front-End  com ênfase na criação de interfaces de usuário dinâmicas e responsivas. Possuo experiência prática no desenvolvimento de projetos utilizando HTML, CSS e JavaScript. Sou proativo na busca por novas tecnologias e ferramentas de programação, aplicando continuamente novos conhecimentos em projetos inovadores.</h2>
+
+- 💬 Ask me about anything [here](https://www.linkedin.com/in/thomas-chriscian)
+- 📫 How to reach me: [@_tchriscian10](https://www.instagram.com/_tchriscian10/);
+
 <h2 align="center">Desenvolvedor Front-End  com ênfase na criação de interfaces de usuário dinâmicas e responsivas. Possuo experiência prática no desenvolvimento de projetos utilizando HTML, CSS e JavaScript. Sou proativo na busca por novas tecnologias e ferramentas de programação, aplicando continuamente novos conhecimentos em projetos inovadores.</h2>
 <h2>Tecnologias utilizadas:</h2>
 <br>
-
 <code><img src="https://img.shields.io/badge/HTML-ff0000?style=for-the-badge&logo=html5&logoColor=black" alt="html-logo"/></code>
 <code><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=black" alt="css-logo" /></code> 
 <code><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></code>
@@ -27,9 +36,9 @@
 <br>
 <br>
 
-![Thômas stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight) 
+![Thômas stats](https://github-readme-stats.vercel.app/api?username=thomaschriscian15&show_icons=true&theme=buefy) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomaschriscian15&layout=compact&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomaschriscian15&layout=compact&show_icons=true&theme=buefy)](https://github.com/thomaschriscian15/github-readme-stats)
 
 
 
